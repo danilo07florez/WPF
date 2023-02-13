@@ -1,0 +1,16 @@
+C:\Users\dani0\source\repos\OPS\OPS\bin\Debug\OPS.exe.config
+C:\Users\dani0\source\repos\OPS\OPS\bin\Debug\OPS.exe
+C:\Users\dani0\source\repos\OPS\OPS\bin\Debug\OPS.pdb
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS.csproj.AssemblyReference.cache
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\MainWindow.g.cs
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\App.g.cs
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS_MarkupCompile.cache
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS_MarkupCompile.lref
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\MainWindow.baml
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS.g.resources
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS.Properties.Resources.resources
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS.csproj.GenerateResource.cache
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS.csproj.CoreCompileInputs.cache
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS.exe
+C:\Users\dani0\source\repos\OPS\OPS\obj\Debug\OPS.pdb
